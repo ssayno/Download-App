@@ -1,0 +1,5 @@
+#+title: Readme
+* Header
+用于抓取 youtube 和 bilibili 视频的简易 UI 界面
+1. youtube 链接格式类似: https://www.youtube.com/watch?v=bfniDlofw_k
+2. bilibili 链接格式类似: https://www.bilibili.com/video/BV1t84y1g7Gj
